@@ -7,5 +7,5 @@
 </div>
 
 <br>
-Kealzyl GPT is a high-performance, decoder-only Large Language Model implemented from scratch in PyTorch. It is designed to push the boundaries of what can be achieved on consumer-grade hardware (like the GeForce RTX series) while maintaining a massive 6 Billion parameter scale.
+Kealzyl 6B is a high-performance, decoder-only Large Language Model implemented from scratch in PyTorch. It is designed to push the boundaries of what can be achieved on consumer-grade hardware (like the GeForce RTX series) while maintaining a massive 6 Billion parameter scale.
 
