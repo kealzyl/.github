@@ -9,3 +9,6 @@
 <br>
 The Kealzyl organization is a group of people that is trying to figure out methods of training AI's for hundreds instead of millions.
 
+## Models :
+1. [Kealzyl Pico](https://github.com/kealzyl/pico) : A very small LLM trained on only **one** wikipedia article.
+2. [Kealzyl Caleum](https://github.com/kealzyl/caleum) : A tiny prediction model for the weather.
