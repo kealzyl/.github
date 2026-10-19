@@ -1,11 +1,11 @@
 <div align="center">
 <img src="images/kealzyl.png" alt="logo">
 
-# A literally home-made 6B parameter AI model
-**A GPT base model, trained with a low buget**
+# What if AI did not cost millions to train?
+**A experiment focusing on methods to train AI for cheap**
 
 </div>
 
 <br>
-Kealzyl 6B is a high-performance, decoder-only Large Language Model implemented from scratch in PyTorch. It is designed to push the boundaries of what can be achieved on consumer-grade hardware (like the GeForce RTX series) while maintaining a massive 6 Billion parameter scale.
+The Kealzyl organization is a group of people that is trying to figure out methods of training AI's for hundreds instead of millions.
 
