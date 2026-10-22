@@ -14,3 +14,4 @@ The Kealzyl organization is a group of people that is trying to figure out metho
    1.2. [Kealzyl Oxidum](https://github.com/kealzyl/oxidum) : Rewrite of Pico in rust.
 3. [Kealzyl Caleum](https://github.com/kealzyl/caleum) : A tiny prediction model for the weather.
 4. [Kealzyl Somnium](https://github.com/kealzyl/somnium) : A DeepDream model trained from scratch.
+5. [Kealzyl Neuron](https://github.com/kealzyl/neuron) : A local Flask dashboard for a small PyTorch phrase classifier.
